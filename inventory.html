@@ -1,0 +1,50 @@
+<html>
+    <title>Dogs</title>
+    <head>
+    <!--Style sheet-->
+    <link rel="stylesheet" href="./stylesheets/style.css"
+
+    <!--Bootstrap-->
+    <link href="https://fonts.googleapis.com/css?family=Nunito:400,600,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link href="https://unpkg.com/gridjs/dist/theme/mermaid.min.css" rel="stylesheet" />
+</head>
+<body>
+    <!-- Button Flow at the top header -->
+<div class="container-fluid">
+    <div class="row">
+        <div class="home-button">
+        <button class="btn btn-secondary" onclick="window.location.href='addDog.html'">Add Dog</button>
+        <button class="btn btn-secondary" onclick="window.location.href='updateDog.html'">Update Dog</button>
+        </div>
+    </div>
+</div>
+
+
+<h1 class="pages-text-center">Dog Breed Screen</h1>
+
+<!-- Table -->
+<div class="container">
+    <div id="table"></div>
+    <script src="https://unpkg.com/gridjs/dist/gridjs.umd.js"></script>
+    <script src="./js/getInventory.js"></script>
+</div>
+    
+</body>
+    
+    <!-- CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/4.8.1/firebase.js"></script>
+
+    <!-- This is for toast messages-->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="./js/jquery.toaster.js"></script>
+
+    
+</html>
+
