@@ -1,0 +1,7 @@
+# Web API Documentation
+
+## Get Contents of Database
+
+## Add (POST) a Dog Breed to Database
+
+## Update (PUT) a Dog Breed in the Database
