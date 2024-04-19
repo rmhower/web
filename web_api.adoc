@@ -2,6 +2,7 @@
 :WEBAPI_LOC: Bethel
 :WEBAPI_ENV: Production
 :WEBAPI_URL: https://web-5lr9.onrender.com
+:WEBAPI_STS: Available
 :WEBAPI_VER: 1.1.0
 
 # Web API Documentation
@@ -11,3 +12,9 @@
 ## Add (POST) a Dog Breed to Database
 
 ## Update (PUT) a Dog Breed in the Database
+
+[grid="rows",format="csv"]
+[options="header",cols="^,<,<s,<,>m"]
+|=====================================
+App,Location,Environment,URL,Version
+`{WEBAPI_APP}`, `{WEBAPI_LOC}`, `{WEBAPI_ENV}`, `{WEBAPI_URL}`, `{WEBAPI_STS}`, `{WEBAPI_VER}`, 
