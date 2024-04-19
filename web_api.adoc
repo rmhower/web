@@ -6,13 +6,13 @@
 :WEBAPI_VER: 1.1.0
 
 image::images/Dogbreeds.JPG[alt=logo,width=250px][orientation=landscape]
-# Web API Documentation
+# Web App Documentation
 
-## Get Contents of Database
+## What operating system was used
+This application was designed in Visual Studios on a Windows 10 laptop. It can be viewed in any browser.
 
-## Add (POST) a Dog Breed to Database
-
-## Update (PUT) a Dog Breed in the Database
+## What programming languages were used
+HTML, CSS, Jquery, JavaScript
 
 ## Application Environment Details
 [grid="rows",format="csv"]
