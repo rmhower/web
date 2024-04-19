@@ -13,8 +13,10 @@
 
 ## Update (PUT) a Dog Breed in the Database
 
+## Application Environment Details
 [grid="rows",format="csv"]
 [options="header",cols="^,<,<s,<,>m"]
 |=====================================
 App,Location,Environment,URL,Version
 `{WEBAPI_APP}`, `{WEBAPI_LOC}`, `{WEBAPI_ENV}`, `{WEBAPI_URL}`, `{WEBAPI_STS}`, `{WEBAPI_VER}`, 
+|=====================================
