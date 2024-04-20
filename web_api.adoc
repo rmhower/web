@@ -21,3 +21,6 @@ HTML, CSS, Jquery, JavaScript
 App,Location,Environment,URL,Version
 `{WEBAPI_APP}`, `{WEBAPI_LOC}`, `{WEBAPI_ENV}`, `{WEBAPI_URL}`, `{WEBAPI_STS}`, `{WEBAPI_VER}`, 
 |=====================================
+
+## Git Flowchart
+image::images/Flowchart.png[alt=logo,width=250px][orientation=landscape]
