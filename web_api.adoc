@@ -23,4 +23,4 @@ App,Location,Environment,URL,Version
 |=====================================
 
 ## Git Flowchart
-image::images/Flowchart.png[alt=logo,width=250px][orientation=landscape]
+image::images/Flowchart.png[alt=logo,width=800px][orientation=landscape]
