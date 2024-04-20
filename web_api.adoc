@@ -1,7 +1,7 @@
 :WEBAPI_APP: My web app
 :WEBAPI_LOC: Bethel
 :WEBAPI_ENV: Production
-:WEBAPI_URL: https://web-5lr9.onrender.com
+:WEBAPI_URL: https://web-5lr9.onrender.com/inventory.html
 :WEBAPI_STS: Available
 :WEBAPI_VER: 1.1.0
 
