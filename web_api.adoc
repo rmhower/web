@@ -5,7 +5,7 @@
 :WEBAPI_STS: Available
 :WEBAPI_VER: 1.1.0
 
-image::images/Dogbreeds.JPG[alt=logo,width=250px][orientation=landscape]
+image::images/Dogbreeds.JPG[alt=logo,width=800px][orientation=landscape]
 # Web App Documentation
 
 ## What operating system was used
